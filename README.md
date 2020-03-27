@@ -1,2 +1,2 @@
 # site-de-soma
-pequeno HTML de calculadora
+pequeno script de soma
