@@ -13,8 +13,8 @@ pequeno script de soma
         <input type="numer" name="txtn2" id="txtn2">
         <input type="button" value="Somar" onclick="somar()">
         <div id="res">Resultado</div>
-    <script>
-        function somar() {
+<script>
+ function somar() {
             var tn1 = window.document.getElementById('txtn1')
             var tn2 = window.document.getElementById('txtn2')
             var res = window.document.getElementById('res')
@@ -23,8 +23,7 @@ pequeno script de soma
             var s = n1 + n2
             res.innerHTML = "a soma dos valores ${n1} e ${n2} é de ${s}"
         
-        }
-
-    </script>
+  }
+</script>
 </body>
 </html>
